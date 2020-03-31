@@ -1,0 +1,1 @@
+implement of ebook **Analysis Patterns: Reused Object Models by Martin Fowler**
